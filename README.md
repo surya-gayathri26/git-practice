@@ -1,2 +1,2 @@
-# git-practice hello world
+# hi greetings
 
